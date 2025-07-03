@@ -1,6 +1,6 @@
 Digital Logic Design Project:
 Fast Multipliers - Shift and add Multiplication Algorithm vs Wallace Tree Multiplier 
-This project explores and compares two digital multiplier architectures — **Shift-and-Add Multiplier** and **Wallace Tree Multiplier** — in terms of **design complexity**, **performance**, and **hardware efficiency**.
+This project designs and compares two digital multiplier architectures — **Shift-and-Add Multiplier** and **Wallace Tree Multiplier** — in terms of **design complexity**, **performance**, and **hardware efficiency**.
 ## Features
 
 - 32-bit signed multiplication
